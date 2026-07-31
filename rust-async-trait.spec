@@ -5,7 +5,7 @@
 %global crate async-trait
 
 Name:           rust-%{crate}
-Version:        0.1.24
+Version:        0.1.91
 Release:        1%{?dist}
 Summary:        Type erasure for async trait methods
 
